@@ -6,7 +6,7 @@ public class UserDetail {
 
         int id = 1;
         String name="\"Sona\"";
-        String address=" 'Irving, Texas' ";
+        String address="'Irving, Texas'";
         String dob= "01-4-1996";
 
         System.out.println(" USER DETAILS ");
