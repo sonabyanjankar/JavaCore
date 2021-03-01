@@ -14,7 +14,5 @@ public class DatatypeReport {
 
         System.out.println("Float\t"+"\t" + Float.MIN_VALUE + "\t\t " + Float.MAX_VALUE );
 
-
-
     }
 }
